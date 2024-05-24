@@ -1,0 +1,53 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+__init__.cpython-*.pyc
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Output directories
+__pycache__/
+build/
+dist/
+
+# Virtual environment
+venv/
+.venv/
+
+# Environment variables
+.env
+env
+
+# Compiled Python files
+*.pyc
+
+# Jupyter Notebook files
+.ipynb_checkpoints/
+
+# Mac OS X files
+.DS_Store
+
+# Byte-compiled files (Python 3.2+)
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Visual Studio Code settings
+.vscode/
+
+# PyCharm settings
+.idea/
+*.iml
+
+# Sublime Text settings
+.sublime-project
+.sublime-workspace
+
+# Spyder settings
+.spyderproject
+
+# End of file
